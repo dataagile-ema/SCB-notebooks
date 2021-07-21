@@ -1,0 +1,7 @@
+matplotlib
+pyscbwrapper
+pandas
+json 
+numpy
+re
+warnings
